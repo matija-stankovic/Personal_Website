@@ -5,7 +5,6 @@ import {SidebarData} from "./SidebarData";
 import './Navbar.css';
 import { IconContext } from 'react-icons';
 import {Link} from "react-scroll";
-import { css } from '@emotion/css'
 
 function Navbar(){
     const [sidebar, setSidebar] = useState(false)

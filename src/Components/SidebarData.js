@@ -39,6 +39,12 @@ export const SidebarData = [
         icon: <MdIcons.MdComputer />,
         cName: 'nav-text'
     },
+    {
+        title: 'Projects',
+        path: 'projects',
+        icon: <MdIcons.MdApps />,
+        cName: 'nav-text'
+    },
 
 
 ]

@@ -11,6 +11,7 @@ import Publication from "../Sections/Publication";
 import Languages from "../Sections/Languages";
 import ITSkills from "../Sections/ITSkills";
 import Bio from "../Sections/Bio"
+import Projects from "../Sections/Projects"
 
 const MainScreen = () => {
     const cls = useStyles()
@@ -24,6 +25,7 @@ const MainScreen = () => {
             <Publication />
             <Languages/>
             <ITSkills/>
+            <Projects/>
         </div>
     );
 }

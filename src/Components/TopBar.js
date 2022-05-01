@@ -11,9 +11,9 @@ import 'react-toastify/dist/ReactToastify.css';
 toast.configure();
 function SideBar(){
     const cls = useStyles()
-    const notify = () => {
-        toast.info('This area is still being developed!', {position: toast.POSITION.TOP_CENTER});
-    }
+    const handleClick = () => {
+        window.open("https://www.linkedin.com/in/matijas");
+    };
     return(
         <>
             <div className="topBar">
@@ -28,7 +28,8 @@ function SideBar(){
                                 <img src={logo} width={"100px"} height={"70px"} className={cls.image}/>
                             </Grid>
                             <Grid container item xs={7} md={4} justifyContent={"center"}>
-                                <Button className={cls.smallButton} onClick={notify} >Projects</Button>
+                                    <Button className={cls.smallButton} onClick={handleClick} >Contact</Button>
+
                             </Grid>
                         </Grid>
                     </Grid>

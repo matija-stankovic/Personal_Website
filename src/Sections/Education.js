@@ -52,7 +52,7 @@ function Education(){
                                     </Grid>
                                     <Grid container item xs={12} md={5} justifyContent={"center"}>
                                         <Typography className={cls.capitalTxt}>
-                                            Sept 2020 - Present
+                                            Sept 2020 - June 2024
                                         </Typography>
                                     </Grid>
                                     <Grid container item xs={12} md={3} justifyContent={"center"}>
@@ -65,10 +65,11 @@ function Education(){
                                         <Typography className={cls.descriptionTxt}>
                                             BcS in Computer Science at the College of Computing and Informatics
                                         </Typography>
-                                        <Typography className={cls.Txt}>• Graduated from Mahindra United World College in India completing the International Baccalaureate with the top score in class</Typography>
-                                        <Typography className={cls.Txt}>• Bachelor of Science in Computer Science, College of Computing and Informatics with a minor in Psychology</Typography>
-                                        <Typography className={cls.Txt}>• Full tuition/housing scholarships (2020-24): A. J. Drexel Scholarship, UWC Davis Scholars Grant</Typography>
-                                        <Typography className={cls.Txt}>• Current Computer Science Cumulative GPA: 3.79 – Dean’s list – Current Psychology Cumulative GPA: 4.00</Typography>
+
+                                        <Typography className={cls.Txt}>• Major: Computer Science, Minor: Psychology </Typography>
+                                        <Typography className={cls.Txt}>• Full scholarship (2020-24): A. J. Drexel Scholarship, Shelby Davis Scholars Grant</Typography>
+                                        <Typography className={cls.Txt}>• GPA: Computer Science: 3.79/4.00; Psychology: 4.00/4.00 | Dean’s List</Typography>
+                                        <Typography className={cls.Txt}>• Graduated from Mahindra United World College in India completing the International Baccalaureate with 43/45</Typography>
                                     </Grid>
                                 </Grid>
 

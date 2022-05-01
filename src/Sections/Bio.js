@@ -37,9 +37,8 @@ function Bio(){
                         <Grid container item justifyContent={"center"} xs={12} md={4}>
                             <Typography className={cls.Txt}>
                                 My name is Matija, but I mostly go by Matt.
-                                I am a computer science student pursuing the utilization
-                                of technology in the medical field. I enjoy programming,
-                                and I do it well.
+                                I am a software developer with a strong focus on machine learning and AI.
+                                I enjoy programming, and I do it well.
                             </Typography>
                         </Grid>
                         <ColoredLine/>

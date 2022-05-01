@@ -93,11 +93,6 @@ function ITSkills(){
                         </Grid>
 
                     </Grid>
-                    <Grid
-                        container
-                        className={cls.containerBottom}
-                        style={{ backgroundColor:"black" }}
-                    ></Grid>
                 </div>
             </section>
 
