@@ -112,7 +112,7 @@ function Projects(){
                                             priority heap based Dijkstra's algorithm, thus running in O((E+V)logV)
                                         </Typography>
                                         <Button className={cls.smallButton} onClick={handleClick1}>Git</Button>
-                                        <Button className={cls.smallBlueButton} onClick={handleClick2}>View it Here</Button>
+                                        <Button className={cls.smallBlueButton} onClick={handleClick2}>Try it</Button>
                                     </Grid>
                                 </Grid>
                             </Grid>
@@ -207,7 +207,7 @@ function Projects(){
                                             a fun project in website design using images from Unsplash.com
                                         </Typography>
                                         <Button className={cls.smallButton} onClick={handleClick5}>Git</Button>
-                                        <Button className={cls.smallBlueButton} onClick={handleClick6}>View It Here</Button>
+                                        <Button className={cls.smallBlueButton} onClick={handleClick6}>Try it</Button>
                                     </Grid>
                                 </Grid>
                             </Grid>

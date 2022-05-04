@@ -26,6 +26,7 @@ const MainScreen = () => {
             <Languages/>
             <ITSkills/>
             <Projects/>
+
         </div>
     );
 }
